@@ -20,6 +20,7 @@ INSTALLED_APPS = [
     "debug_toolbar",
 
     "case2",
+    "case3"
 ]
 
 MIDDLEWARE = [
